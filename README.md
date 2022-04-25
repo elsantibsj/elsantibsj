@@ -1,4 +1,4 @@
-(https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest?cb=20131231222500&path-prefix=es)
+(https://i.pinimg.com/nyancat/images/d/d3/Nyan-cat.gif/revision/latest?cb=20131231222500&path-prefix=es)
 - 👋 Hi, I’m @elsantibsj
 - 👀 I’m interested in economy
 - 🌱 I’m currently learning 
