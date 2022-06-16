@@ -3,9 +3,9 @@
 
 
 ![doom](https://user-images.githubusercontent.com/93671645/174114834-bfaa91a6-c632-43b0-b77c-8c5c4cee565a.gif)
-- 🔭 I’m currently working on selling tarrinas
-- 🌱 I’m currently learning economy and science
-- 💬 Ask me about economy
+- 🔭 I’m currently working on my eccomerce
+- 🌱 I’m currently learning coding
+- 💬 Ask me about HTML and CSS
 - 📫 How to reach me: elsantoposada@gmail.com 
 - 😄 Pronouns: he/him 
 ![doom-monster](https://user-images.githubusercontent.com/93671645/174115008-9dd2595e-d9f5-4f8b-83b9-c7c57060dc3e.gif)
