@@ -3,17 +3,14 @@
 
 
 ![doom](https://user-images.githubusercontent.com/93671645/174114834-bfaa91a6-c632-43b0-b77c-8c5c4cee565a.gif)
-![doom-monster](https://user-images.githubusercontent.com/93671645/174115008-9dd2595e-d9f5-4f8b-83b9-c7c57060dc3e.gif)
-
-**I am a student of economy university**, I have a business selling tarrinas
-
-Skills: Contability / Economist / Writer / Poet / Scientist
-
 - 🔭 I’m currently working on selling tarrinas
 - 🌱 I’m currently learning economy and science
 - 💬 Ask me about economy
 - 📫 How to reach me: elsantoposada@gmail.com 
 - 😄 Pronouns: he/him 
+![doom-monster](https://user-images.githubusercontent.com/93671645/174115008-9dd2595e-d9f5-4f8b-83b9-c7c57060dc3e.gif)
+
+Skills: HTML / CSS / Javascript
 
 filipoper pone:
 una carita del doom a la derecha y una de demonio del doom a la izquierda
