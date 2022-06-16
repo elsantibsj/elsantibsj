@@ -11,7 +11,8 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
 
 Skills: HTML / CSS / Javascript
 
-INSTAGRAM ---> @elsantibsj
+TWITTER @elsantibsj
+INSTAGRAM @elsantibsj
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsantibsj&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
