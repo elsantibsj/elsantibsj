@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=F7315E&center=true&lines=Welcome+to+ElSantiBSJ's+profile!)](https://git.io/typing-svg)
 ###### Average DOOM Player
-(https://i.pinimg.com/originals/57/55/a8/5755a88523523c540731f6c59a78eb6f.gif)
+![I know everything, but I know a little about everything.](https://i.pinimg.com/originals/57/55/a8/5755a88523523c540731f6c59a78eb6f.gif)
 
 **I am a student of economy university**, I have a business selling tarrinas
 
