@@ -11,7 +11,7 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
 
 Skills: HTML / CSS / Javascript
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
