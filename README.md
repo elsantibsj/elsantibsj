@@ -9,8 +9,6 @@ Born in Uruguay 🇺🇾.
 
 Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, Music 🎶, Art 🎨, Economy 💹 and Fortnite 🕹️.
 
-Skills: HTML / CSS / Javascript
-
 ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
 
 <div align="center">
