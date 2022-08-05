@@ -22,10 +22,10 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
 
 ### My Stack 📚
     
-<p align="left">
+<div align="center">
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' height='42px'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' height='42px'/>
     
-</p>
+</div>
     
  
