@@ -29,7 +29,7 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
   <img src='http://siliconangle.com/files/2013/09/mariadb-logo.png' height='42px'/>
   <img src='https://pngimg.com/uploads/mysql/mysql_PNG23.png' height='42px'/>
   <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' height='42px'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' height='42px'/>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkl5wNnPqbgcxJE8aH3zyeEEZ91NIy37YZ4wrL8icHbJ09-mr5x90SsAeaWcmBqyH3xc&usqp=CAU' height='42px'/>
     
    
     
