@@ -25,7 +25,7 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
 <div align="center">
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' height='42px'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' height='42px'/>
-  <img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)' height='42px'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png' height='42px'/>
    
     
 </div>
