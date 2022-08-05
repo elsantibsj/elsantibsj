@@ -20,9 +20,9 @@ Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, M
     <a href="#"><img alt="ElSantiBSJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elsantibsj&custom_title=Santiago%20Romero%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
 <div> 
     
-<div align="center">
-  ### My Stack 📚
+<h2 align="center">My Stack 📚<h2>
     
+<div align="center">
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' height='42px'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' height='42px'/>
     
