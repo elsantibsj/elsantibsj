@@ -14,8 +14,8 @@ Skills: HTML / CSS / Javascript
 ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsantibsj&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elsantibsj&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 <div>
     <a href="#"><img alt="ElSantiBSJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elsantibsj&custom_title=Santiago%20Romero%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
