@@ -4,8 +4,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/93671645/174115008-9dd2595e-d9f5-4f8b-83b9-c7c57060dc3e.gif' width='20%'>  
 
 # ABOUT ME
-🙋‍♂️18 years old.
-Born in Uruguay 🇺🇾.
+I'm Santiago Romero, fullstack developer and software engineer. When I was 12 years old, I learned HTML and have been coding ever since. Anyway, if there is something that I love besides programming, it is philosophy.
 
 Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, Music 🎶, Art 🎨, Economy 💹 and Fortnite 🕹️.
 
