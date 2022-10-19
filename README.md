@@ -10,12 +10,12 @@
 I'm Santiago Romero, fullstack developer and software engineer. When I was 12 years old, I learned HTML and have been coding ever since. Anyway, if there is something that I love besides programming, it is philosophy. 
 This is my contact email: elsantoposada@gmail.com
 </p>
-    
+    ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
 </center>
 
 <div align="center">
     
-    ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
+    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=elsantibsj&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 </div>
