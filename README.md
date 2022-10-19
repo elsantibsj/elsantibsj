@@ -6,10 +6,12 @@
 <center>
 
 # ABOUT ME
+<p align="center">
 I'm Santiago Romero, fullstack developer and software engineer. When I was 12 years old, I learned HTML and have been coding ever since. Anyway, if there is something that I love besides programming, it is philosophy. 
 This is my contact email: elsantoposada@gmail.com
 
 Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, Music 🎶, Art 🎨, Economy 💹 and Fortnite 🕹️.
+</p>
 
 ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
     
