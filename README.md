@@ -10,11 +10,8 @@
 I'm Santiago Romero, fullstack developer and software engineer. When I was 12 years old, I learned HTML and have been coding ever since. Anyway, if there is something that I love besides programming, it is philosophy. 
 This is my contact email: elsantoposada@gmail.com
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
-    
 </center>
+
 <div align="center">
     
     
@@ -25,6 +22,8 @@ This is my contact email: elsantoposada@gmail.com
 <div>
     <a href="#"><img alt="ElSantiBSJ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elsantibsj&custom_title=Santiago%20Romero%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
 <div> 
+    
+![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
     
 <h2 align="center">My Stack 📚<h2>
     
