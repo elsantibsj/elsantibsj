@@ -3,6 +3,8 @@
 <img align='left' src='https://user-images.githubusercontent.com/93671645/174114834-bfaa91a6-c632-43b0-b77c-8c5c4cee565a.gif' width='20%'>  
 <img align='right' src='https://user-images.githubusercontent.com/93671645/174115008-9dd2595e-d9f5-4f8b-83b9-c7c57060dc3e.gif' width='20%'>  
 
+<center>
+
 # ABOUT ME
 I'm Santiago Romero, fullstack developer and software engineer. When I was 12 years old, I learned HTML and have been coding ever since. Anyway, if there is something that I love besides programming, it is philosophy. 
 This is my contact email: elsantoposada@gmail.com
@@ -10,6 +12,8 @@ This is my contact email: elsantoposada@gmail.com
 Lover of Philosophy 🧠, Science 🔭, Chess ♟️, Coding 💻, Books 📚, Music 🎶, Art 🎨, Economy 💹 and Fortnite 🕹️.
 
 ![](https://komarev.com/ghpvc/?username=elsantibsj&color=green)
+    
+</center>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsantibsj&theme=tokyonight&layout=compact"/>
